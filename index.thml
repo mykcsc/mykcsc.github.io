@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Kirat Cultural Society of Colorado, Inc.</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About US</a></li>
+        		<li><a href="/contacts">Contact</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Kirat Cultural Society of Colorado, Inc.</h1>
+				<p>Kirat Cultural Society of Colorado, Inc is a non- profit organization founded by Kirat community members. <a href="/about">Read more about KCSC.</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:kcsc@gmail.com">email</a></li>
+        		<li><a href="https://github.com/mykcsc">github.com/mykcsc</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
